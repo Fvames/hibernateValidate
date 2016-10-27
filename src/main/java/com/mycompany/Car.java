@@ -1,5 +1,8 @@
 package com.mycompany;
 
+import javax.validation.constraints.Min;
+import javax.validation.constraints.NotNull;
+import javax.validation.constraints.Size;
 
 /**
  * Created by James on 2016/10/26.
